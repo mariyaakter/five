@@ -1,0 +1,27 @@
+ h1{
+    color: white;
+ }
+ header,.menu,footer{
+    height: 100Px;
+    width: 100%;
+    background: green;
+ }
+ .menu{
+    background: black;
+
+ }
+ .contant{
+    height: 300px;
+    width: 25%;
+    background:tomato ;
+    float: left;
+ }
+ .main_contant{
+    height: 300px;
+    width: 50%;
+    background: blue;
+    float:left;
+ }
+ .contant_anyother{
+           float: right;
+ } 
